@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "namaBarang": "Slay oLay",
+    "jumlahBarang": 10,
+    "terjual": 3,
+    "sisa": 7,
+    "updateAt": "2025-05-04T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "namaBarang": "Oreo Black pret pret",
+    "jumlahBarang": 1,
+    "terjual": 1000000,
+    "sisa": 1,
+    "updateAt": "2025-04-04T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "namaBarang": "Oreo Red pret pret",
+    "jumlahBarang": 1,
+    "terjual": 0,
+    "sisa": 1,
+    "updateAt": "2025-04-04T10:00:00Z"
+  }
+]
